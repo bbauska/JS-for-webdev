@@ -3,12 +3,12 @@ title: JS-for-webdev
 author: bbauska
 date first editted: 6/1/2025
 date last editted: 12/15/2025
-JavaScript for Web Development by Boord Infinity
-JavaScript for Web Development
-by Board Infinity
 output: 
   markdown:
     with some style
+JavaScript for Web Development by Boord Infinity
+JavaScript for Web Development
+by Board Infinity
 ---
 
 ### About this Course
