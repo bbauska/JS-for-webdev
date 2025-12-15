@@ -6,10 +6,11 @@ date last editted: "12/15/2025"
 output: 
   markdown:
     with some style
-  JavaScript for Web Development by Boord Infinity
-  JavaScript for Web Development
-  by Board Infinity
 ---
+
+#  JavaScript for Web Development by Boord Infinity
+#  JavaScript for Web Development
+##  by Board Infinity
 
 ### About this Course
 
