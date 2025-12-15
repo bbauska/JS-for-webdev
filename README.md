@@ -1,5 +1,5 @@
 ---
-JS-for-Web-Dev
+JS-for-webdev
 JavaScript for Web Development by Boord Infinity
 JavaScript for Web Development
 by Board Infinity
