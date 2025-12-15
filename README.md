@@ -8,7 +8,7 @@ output:
     with some style
 ---
 
-#  JavaScript for Web Development by Boord Infinity
+#  JavaScript for Web Development by Board Infinity
 #  JavaScript for Web Development
 ##  by Board Infinity
 
