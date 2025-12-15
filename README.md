@@ -6,6 +6,9 @@ date last editted: 12/15/2025
 JavaScript for Web Development by Boord Infinity
 JavaScript for Web Development
 by Board Infinity
+output: 
+  markdown:
+    with some style
 ---
 
 ### About this Course
