@@ -6,7 +6,8 @@ by Board Infinity
 ---
 
 
-About this Course
+### About this Course
+
 Dive into the captivating world of JavaScript, a cornerstone language that has revolutionized web development by enabling dynamic and engaging web applications. This course, divided into three holistic modules, ensures learners gain a deep understanding of JavaScript from basic concepts to advanced implementations. 
 In the first module, you'll embark on a journey through the foundational elements of JavaScript. This foundational foray will familiarize you with the primary components such as data types, variables, operators, and fundamental functions, setting the stage for the subsequent modules. 
 The second module transitions to the vibrant world of web interactivity. Here, you'll delve into the intricacies of the Document Object Model (DOM) and understand how JavaScript seamlessly integrates with it. Mastering this module is essential for those aiming to craft web pages that dynamically adjust and respond to user interactions. 
