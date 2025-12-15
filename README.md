@@ -50,7 +50,7 @@ and users.
 17 videos, 4 readings
 1.	Video: Course Introduction Video
 2.	Video: Meet your Instructor
-  2.1  Reading: Syllabus
+2.1  Reading: Syllabus
 3.	Video: About this lesson
 4.	Video: Introduction to JavaScript
 5.	Video: Setting up your development environment
@@ -62,13 +62,13 @@ and users.
 11.	Video: Arrays in Javascript
 12.	Video: Working with Strings
 13.	Video: String Manipulation
-  13.1  Reading: Learn more about Variables, Operators, and Strings
+13.1  Reading: Learn more about Variables, Operators, and Strings
 14.	Video: About this lesson
 15.	Video: Conditional statements (if/else, switch)
 16.	Video: Looping structures (For, While, Do-While)
 17.	Video: Functions and Scope
-  17.1  Reading: Further Reading on Control Statements
-  17.2  Reading: Tell us what you think!
+17.1  Reading: Further Reading on Control Statements
+17.2  Reading: Tell us what you think!
 
 ## Module 2 DOM Manipulation and Event Handling
 This module is designed to provide learners with a comprehensive understanding of how to manipulate 
@@ -90,17 +90,17 @@ quality code that meets the needs of their clients and users.
 3.	Video: Accessing DOM elements with JavaScript
 4.	Video: Manipulating DOM elements with JavaScript
 5.	Video: Modifying styles and attributes with JavaScript
-  5.1  Reading: Read more about DOM Manipulation
+5.1  Reading: Read more about DOM Manipulation
 6.	Video: What you will learn in this Lesson
 7.	Video: Understanding events and event listeners
 8.	Video: Responding to user input (clicks, key presses)
 9.	Video: Creating interactive user interfaces with events
-  9.1.  Reading: Further reading on event handling
+9.1.  Reading: Further reading on event handling
 10.	Video: What you will learn in this Lesson
 11.	Video: Creating and removing DOM elements with JavaScript
 12.	Video: Using AJAX to load content dynamically
 13.	Video: Handling errors and exceptions
-  13.1  Reading: Read more on Advance DOM Manipulation
+13.1  Reading: Read more on Advance DOM Manipulation
 
 ## Module 3 Advanced JavaScript Techniques and Jquery
 This module is designed to provide learners with a comprehensive understanding of advanced 
@@ -119,13 +119,13 @@ will build a hands on project that will bring thier learning to life.
 2.	Video: Working with arrays and objects in JavaScript
 3.	Video: Understanding closures and the scope chain
 4.	Video: Debugging JavaScript code
-  4.1 Reading: Learn more about Advance JS Techniques
+4.1 Reading: Learn more about Advance JS Techniques
 5.	Video: What you will learn in this Lesson
 6.	Video: What is jQuery?
 7.	Video: jQuery Selectors
 8.	Video: jQuery Effects
 9.	Video: jQuery Traversing
-  9.1.	Reading: Further Reading on jQuery
+9.1.	Reading: Further Reading on jQuery
 10.	Video: Project Building - Part 1
 11.	Video: Project Building - Part 2
 12.	Video: Project Building - Part 3
